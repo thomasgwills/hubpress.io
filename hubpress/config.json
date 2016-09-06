@@ -2,9 +2,18 @@
   "meta": {
     "username": "thomasgwills",
     "repositoryName": "thomasgwills.github.io",
-    "branch": "master"
+    "branch": "master",
+    "delay": "0"
+  },
+  "site": {},
+  "socialnetwork": {
+    "email": "thomas.wills.tw@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/thomasgwills",
+    "facebook": "https://www.facebook.com/Wilburre",
+    "instagram": "https://www.instagram.com/thomas.wills/",
+    "github": "https://github.com/thomasgwills"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
