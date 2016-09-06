@@ -1,0 +1,7 @@
+= Test Post 1
+
+Test
+
+Test embed 
+
+image::https://c7.staticflickr.com/9/8166/28446179534_37e27f9c0f_b.jpg[]
